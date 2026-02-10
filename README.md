@@ -32,6 +32,6 @@ Układ zarządzany jest przez własny serwer WWW postawiony na ESP32, umożliwia
 - **Biblioteki:** Adafruit NeoPixel, DHT Sensor Library, WiFi.h, WebServer.h
 
 ## Instrukcja Uruchomienia
-1. Podłącz zasilanie 5V.
+1. Podłącz zasilanie (USB/5V).
 2. Połącz się z siecią WiFi.
 3. Wpisz w przeglądarce adres IP urządzenia.
